@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable"
+    },
+    "Build and Test": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Lewin\\source\\repos\\AudioPlugSharp\\NetworkSenderV1\\NetworkSenderV1\\bin\\Debug\\net6.0\\AutomateEverythingBridge.exe",
+      "workingDirectory": "C:\\Users\\Lewin\\source\\repos\\AudioPlugSharp\\NetworkSenderV1\\NetworkSenderV1\\bin\\Debug\\net6.0",
+      "nativeDebugging": true
+    }
+  }
+}
